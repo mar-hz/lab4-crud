@@ -1,0 +1,13 @@
+/* Styles specific to AI-supplied CRUD */
+.ai-crud h2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #343a40;
+}
+
+.ai-crud .table {
+  background: #fff;
+}
+
+.ai-crud .modal-content {
+  border-radius: 0.5rem;
+}
